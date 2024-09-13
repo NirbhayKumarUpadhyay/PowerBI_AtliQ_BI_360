@@ -4,6 +4,8 @@ I Completed this end-to-end Ecommerce domain project as a part of my Data Analys
 
 Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGIyMTQ3ZGQtMzE1MS00Nzc4LWI0YmEtZjA1MDQyZGM2MDI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+![Dashboard](https://github.com/user-attachments/assets/95c8ffd7-ca0d-45fe-bc39-a866dc6562bb)
+
 
 # Company Overview
 
