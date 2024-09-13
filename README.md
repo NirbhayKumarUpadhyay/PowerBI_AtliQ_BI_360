@@ -24,10 +24,11 @@ The Objective of this project is to answer the questions of stakeholder in terms
 
 As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
 
+
 # Home Page
 
 <p align="center">
-    <img src='https://github.com/NirbhayKumarUpadhyay/PowerBI_AtliQ_BI_360/blob/602fe093528050fef3b72c671291b038b52ed1c0/BI_360_Resources/Homepage.png' width="600">
+    <img src='https://github.com/NirbhayKumarUpadhyay/PowerBI_AtliQ_BI_360/blob/f44f560ad0e155bf73f0c913d64be7fe4dacfcd4/BI_360_Resources/Homepage.png' width="600">
 </p>
 
 # Finance View
