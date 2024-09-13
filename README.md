@@ -24,7 +24,6 @@ The Objective of this project is to answer the questions of stakeholder in terms
 
 As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
 
-
 # Home Page
 
 <p align="center">
